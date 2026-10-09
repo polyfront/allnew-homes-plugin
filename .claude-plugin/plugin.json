@@ -1,5 +1,6 @@
 {
   "name": "allnew-homes",
+  "displayName": "All New Homes",
   "version": "0.1.4",
   "description": "Find US new-construction listings on All New Homes, filter inventory, and inspect current property details and builder links.",
   "author": {
@@ -9,6 +10,11 @@
   "homepage": "https://allnew.homes/plugin",
   "repository": "https://github.com/polyfront/allnew-homes-plugin",
   "license": "MIT",
+  "icon": "./assets/logo-white-on-black.png",
+  "documentationUrl": "https://allnew.homes/plugin",
+  "supportUrl": "https://allnew.homes/plugin",
+  "privacyPolicyUrl": "https://allnew.homes/privacy",
+  "termsOfServiceUrl": "https://allnew.homes/terms",
   "keywords": [
     "real-estate",
     "new-construction",
