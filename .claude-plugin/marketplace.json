@@ -1,0 +1,18 @@
+{
+  "name": "polyfront",
+  "owner": {
+    "name": "PolyFront LLC",
+    "email": "admin@allnew.homes"
+  },
+  "metadata": {
+    "description": "PolyFront plugins for All New Homes."
+  },
+  "plugins": [
+    {
+      "name": "allnew-homes",
+      "source": "./",
+      "version": "0.1.4",
+      "description": "Find US new-construction listings on All New Homes, filter inventory, and inspect current property details and builder links."
+    }
+  ]
+}

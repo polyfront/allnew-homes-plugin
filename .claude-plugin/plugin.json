@@ -1,0 +1,19 @@
+{
+  "name": "allnew-homes",
+  "version": "0.1.4",
+  "description": "Find US new-construction listings on All New Homes, filter inventory, and inspect current property details and builder links.",
+  "author": {
+    "name": "PolyFront LLC",
+    "url": "https://allnew.homes"
+  },
+  "homepage": "https://allnew.homes/plugin",
+  "repository": "https://github.com/polyfront/allnew-homes-plugin",
+  "license": "MIT",
+  "keywords": [
+    "real-estate",
+    "new-construction",
+    "homes",
+    "builders",
+    "listings"
+  ]
+}
